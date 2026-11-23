@@ -89,7 +89,7 @@
 <br/><br/>
 
 <!-- GitHub Streak -->
-<img width="80%" src="https://streak-stats.demolab.com?user=Nitesh-Codez&theme=default&hide_border=true&ring=16A34A&fire=16A34A&currStreakLabel=16A34A&sideLabels=333333" />
+<img width="80%" src="https://streak-stats.demolab.com?user=Nitesh-Codez&theme=default&hide_border=true&ring=16A34A&fire=16A34A&currStreakLabel=16A34A&sideLabels=333333&hide_total_contributions=true&hide_current_streak=false&hide_longest_streak=false" />
 
 </div>
 
