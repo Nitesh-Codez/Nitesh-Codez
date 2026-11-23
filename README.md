@@ -77,17 +77,19 @@
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Codez&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Codez&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Codez&layout=compact&theme=default&hide_border=true" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Nitesh-Codez&theme=default&hide_border=true" />
+<!-- GitHub Streak -->
+<img width="80%" src="https://streak-stats.demolab.com?user=Nitesh-Codez&theme=default&hide_border=true&ring=16A34A&fire=16A34A&currStreakLabel=16A34A&sideLabels=333333" />
 
 </div>
 
@@ -97,9 +99,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-Codez&theme=github-light&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-Codez&theme=github-light&hide_border=true&area=true&color=16A34A&line=16A34A&point=16A34A" />
 
 </div>
+
 
 ---
 
