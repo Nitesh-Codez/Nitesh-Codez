@@ -101,9 +101,10 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-Codez&theme=github-light&hide_border=true&area=true&color=16A34A&line=16A34A&point=16A34A" />
-
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-Codez&theme=github-light&hide_border=true&area=true&color=16A34A&line=16A34A&point=16A34A&days=365"
+  />
 </div>
 
 
